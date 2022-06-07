@@ -1,4 +1,5 @@
-#snippets for if conditions
+# Class exercise for June 7th 
+# Snippets for if conditions
 
 userage <- 150
 
@@ -67,7 +68,6 @@ if (is.na(speed)) {
     }
 }
 
-# this is called "defensive programming" 
-
+# 
 
 
